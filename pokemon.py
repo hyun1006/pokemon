@@ -34,6 +34,7 @@ name = h3.text.split("\n")[1]
 driver.close()
 
 import csv
+import os
 pokemon_exist = os.path.exists("pokemon.csv")
 header = ["no", "name"]
 
