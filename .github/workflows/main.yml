@@ -1,4 +1,4 @@
-# 서울 날씨를 5분마다 csv로 저장!
+# 포켓몬 5분마다 csv로 저장!
 name: Pokemon Data Per 5m
 
 on:  # 작업을 수행하는 조건
